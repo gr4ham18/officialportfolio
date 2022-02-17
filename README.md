@@ -1,6 +1,4 @@
 # officialportfolio
- <!--linkedin-->
-  <script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
 
 <h1 align="center">Graham's Oficial portifolio </h1>
 
@@ -32,8 +30,7 @@ This application is covered by the none license.
 ## Contributing
  gr4ham18
 
- <div class="badge-base LI-profile-badge" data-locale="en_US" data-size="large" data-theme="dark" data-type="VERTICAL" data-vanity="gabriel-dornelles-graham" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://www.linkedin.com/in/gabriel-dornelles-graham?trk=profile-badge">Gabriel Graham</a></div>
-              
+ 
 
 
 
