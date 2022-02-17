@@ -30,14 +30,13 @@ This application is covered by the none license.
 ## Contributing
  gr4ham18
 
-## Test
- no
+
 
 ## Questions
  reporte issues at my github<br />
 <br />
 Find me on GitHub: [gr4ham18](https://github.com/gr4ham18)<br />
 <br />
- Email me with any questions: not specified<br /><br />
+ Email me with any questions: gr4ham18@gmail.com<br /><br />
 
     
